@@ -1,6 +1,6 @@
 # TeX-Demo
 
-[Try LaTeX](https://tex-demo.vercel.app)
+[Try LaTeX](latex-intro.vercel.app)
  
 
 ## Download to Get Started
