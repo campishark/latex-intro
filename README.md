@@ -1,4 +1,4 @@
-# TeX-Demo
+# Introduction to TeX
 
 [Try LaTeX](latex-intro.vercel.app)
  
